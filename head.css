@@ -1,0 +1,43 @@
+#nav-p:hover{
+background-color:#02ccb7;
+}
+#nav-p:active{
+background-color:#77f4e7;
+}
+#nav{
+user-select:none;
+background-color:#00f7dd;
+padding-left:50px;
+}
+body{
+background-image: url(backgr.jpg);
+}
+#body-S{
+border: 4px solid blue;
+border-collapse: collapse;
+}
+#head{
+border: 4px solid blue;
+}
+#content{
+background-color:white;
+border: 4px solid blue;
+}
+#content-p{
+	font-size:20px;
+	color:#1d1f1f;
+}
+#extra{
+background-color:#FFFFFF;
+border: 4px solid blue;
+}
+#footer{
+border: 4px solid blue;
+}
+#d-t{
+	color:white;
+	background-color:#0600f7;
+	font-size:33px;
+	text-align:center;
+	
+}
